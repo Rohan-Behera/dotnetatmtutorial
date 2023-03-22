@@ -7,7 +7,7 @@ namespace ATM
 
         private const string CARD_NUMBER = "1234567890123456";
         private const int PIN = 1234;
-        private const decimal BALANCE = 15000;
+        private const decimal BALANCE = 10000;
 
         private static decimal WithdrawalLimit = 1000;
         private static int MaxTransactionsPerDay = 10;
